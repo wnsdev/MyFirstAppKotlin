@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Produtos</string>
+    <string name="title_activity_form_produto">Adicionar Produto</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
